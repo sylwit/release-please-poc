@@ -1,3 +1,3 @@
 export function main() {
-    return {result: "init"}
+    return {result: "feat1"}
 }
