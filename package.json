@@ -1,0 +1,24 @@
+{
+  "name": "release-please-poc",
+  "private": true,
+  "version": "0.0.1",
+  "description": "POC for release-please",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sylwit/release-please-poc.git"
+  },
+  "keywords": [
+    "release-please",
+    "POC"
+  ],
+  "author": "Sylvain Witmeyer<sylvain.witmeyer@gmail.com>",
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/sylwit/release-please-poc#readme",
+  "dependencies": {},
+  "devDependencies": {},
+  "standard": {
+    "ignore": "dist/"
+  }
+}
