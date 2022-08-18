@@ -1,3 +1,3 @@
 export function main() {
-    return {result: "start"}
+    return {result: "new feature"}
 }
