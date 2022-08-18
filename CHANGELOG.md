@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.5.1](https://github.com/sylwit/release-please-poc/compare/release-please-poc-v1.5.0...release-please-poc-v1.5.1) (2022-08-18)
+
+
+### Bug Fixes
+
+* hotfix ([4002890](https://github.com/sylwit/release-please-poc/commit/40028908e634825d9f91a8867e9c02fae3ab2921))
+
 ## [1.5.0](https://github.com/sylwit/release-please-poc/compare/release-please-poc-v1.4.0...release-please-poc-v1.5.0) (2022-08-18)
 
 
