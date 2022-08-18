@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.3.0](https://github.com/sylwit/release-please-poc/compare/release-please-poc-v1.2.0...release-please-poc-v1.3.0) (2022-08-18)
+
+
+### Features
+
+* add a new feature ([2de8c6f](https://github.com/sylwit/release-please-poc/commit/2de8c6f163bdb017abe1fbcaa1624ef832074f5c))
+* add release-please on hotfix branches ([20be710](https://github.com/sylwit/release-please-poc/commit/20be7103a77d0b80c89c56e9abc55634f4534056))
+* add release-please on hotfix branches ([541279a](https://github.com/sylwit/release-please-poc/commit/541279aedb2e21146ec9597e2cc2d2c7055ee244))
+
 ## [1.2.0](https://github.com/sylwit/release-please-poc/compare/release-please-poc-v1.1.0...release-please-poc-v1.2.0) (2022-08-04)
 
 
