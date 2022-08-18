@@ -2,7 +2,7 @@ on:
   push:
     branches:
       - main
-      - "hotfix/**"
+      - v**
 
 name: release-please
 jobs:
@@ -12,3 +12,12 @@ jobs:
       - uses: google-github-actions/release-please-action@v3
         with:
           command: manifest
+          default-branch: ${{ github.ref_name }}
+
+#        if: github.ref_name == 'main'
+
+#      - uses: google-github-actions/release-please-action@v3
+#        with:
+#          command: manifest
+#          default-branch: ${{ github.ref_name }}
+#        if: startsWith(github.ref, 'refs/heads/v')
