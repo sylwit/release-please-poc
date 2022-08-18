@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.5.0](https://github.com/sylwit/release-please-poc/compare/release-please-poc-v1.4.0...release-please-poc-v1.5.0) (2022-08-18)
+
+
+### Features
+
+* new feat ([4c5a162](https://github.com/sylwit/release-please-poc/commit/4c5a162d7926b482f5f95f82af5ecb059e8e7887))
+
+
+### Bug Fixes
+
+* GH action ([a7773fc](https://github.com/sylwit/release-please-poc/commit/a7773fcd3155f5dbd65f58a3c86ba9656d3d8cc4))
+
 ## [1.4.0](https://github.com/sylwit/release-please-poc/compare/release-please-poc-v1.3.0...release-please-poc-v1.4.0) (2022-08-18)
 
 
