@@ -1,3 +1,3 @@
 export function main() {
-    return {result: "hotfix"}
+    return {result: "new feature"}
 }
