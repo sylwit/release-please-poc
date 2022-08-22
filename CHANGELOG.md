@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.7.0](https://github.com/sylwit/release-please-poc/compare/release-please-poc-v1.6.0...release-please-poc-v1.7.0) (2022-08-22)
+
+
+### Features
+
+* demo feature2 ([efefc1b](https://github.com/sylwit/release-please-poc/commit/efefc1b3f9ce331a41f48be7eb66ea6d9a4aaa6e))
+* demo feature3 ([5cbca70](https://github.com/sylwit/release-please-poc/commit/5cbca7058cddeb698486940c0de42e970a24b5ed))
+
+
+### Bug Fixes
+
+* demo feature-2 ([82a57ba](https://github.com/sylwit/release-please-poc/commit/82a57bad6b2693a378b074396825b6e31cb3b8ae))
+
 ## [1.6.0](https://github.com/sylwit/release-please-poc/compare/release-please-poc-v1.5.0...release-please-poc-v1.6.0) (2022-08-19)
 
 
