@@ -1,3 +1,3 @@
 export function main() {
-    return {result: "demo feature3"}
+    return {result: "awesome feature"}
 }
