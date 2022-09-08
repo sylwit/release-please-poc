@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.8.1](https://github.com/sylwit/release-please-poc/compare/release-please-poc-v1.8.0...release-please-poc-v1.8.1) (2022-09-08)
+
+
+### Bug Fixes
+
+* conventional commit ([afa8d8e](https://github.com/sylwit/release-please-poc/commit/afa8d8ea5618236e0e6edf652de72458fae4a669))
+
 ## [1.8.0](https://github.com/sylwit/release-please-poc/compare/release-please-poc-v1.7.0...release-please-poc-v1.8.0) (2022-09-08)
 
 
