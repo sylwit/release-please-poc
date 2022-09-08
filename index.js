@@ -1,3 +1,3 @@
 export function main() {
-    return {result: "awesome feature"}
+    return {result: "awesome feature non conventional"}
 }
