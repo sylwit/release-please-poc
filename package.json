@@ -1,7 +1,7 @@
 {
   "name": "release-please-poc",
   "private": true,
-  "version": "1.7.0",
+  "version": "1.8.0",
   "description": "POC for release-please",
   "main": "index.js",
   "scripts": {},

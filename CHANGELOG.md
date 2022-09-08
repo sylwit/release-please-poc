@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.8.0](https://github.com/sylwit/release-please-poc/compare/release-please-poc-v1.7.0...release-please-poc-v1.8.0) (2022-09-08)
+
+
+### Features
+
+* awesome feature ([4198015](https://github.com/sylwit/release-please-poc/commit/4198015532e0f6c1b8ac06bc2955e3e8b93855f3))
+
 ## [1.7.0](https://github.com/sylwit/release-please-poc/compare/release-please-poc-v1.6.0...release-please-poc-v1.7.0) (2022-08-22)
 
 
