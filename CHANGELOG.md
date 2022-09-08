@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.9.0](https://github.com/sylwit/release-please-poc/compare/release-please-poc-v1.8.1...release-please-poc-v1.9.0) (2022-09-08)
+
+
+### Features
+
+* feat1 ([25dc130](https://github.com/sylwit/release-please-poc/commit/25dc130eb48c1cb5c316da791c23219e69e24011))
+* feat12 ([52d45dd](https://github.com/sylwit/release-please-poc/commit/52d45dd8b89b4c60d5fe92680972274b42289cbc))
+* feat123 ([4bebeb0](https://github.com/sylwit/release-please-poc/commit/4bebeb0432552dd4c86d3ee608ac03e59e48d16f))
+* this is the feature456 ([894aa29](https://github.com/sylwit/release-please-poc/commit/894aa29c719a095afe94cfe81767298a22341274))
+
 ## [1.8.1](https://github.com/sylwit/release-please-poc/compare/release-please-poc-v1.8.0...release-please-poc-v1.8.1) (2022-09-08)
 
 
